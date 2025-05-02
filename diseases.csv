@@ -1,0 +1,165 @@
+Disease,Primary Symptoms,Secondary Symptoms,Tertiary Symptoms
+Common Cold,Runny nose,Sore throat,Cough
+Influenza,High fever,Body aches,Fatigue
+COVID-19,Loss of taste/smell,Dry cough,Shortness of breath
+Type 2 Diabetes,Excessive thirst,Frequent urination,Unexplained weight loss
+Hypertension,Headaches,Dizziness,Vision problems
+Asthma,Wheezing,Chest tightness,Shortness of breath
+Migraine,Severe headache,Light sensitivity,Nausea
+Arthritis,Joint pain,Stiffness,Swelling
+Pneumonia,Chest pain,Difficulty breathing,Fever
+Bronchitis,Persistent cough,Chest discomfort,Mucus production
+Gastritis,Stomach pain,Nausea,Loss of appetite
+Anxiety Disorder,Excessive worry,Restlessness,Sleep problems
+Depression,Persistent sadness,Loss of interest,Fatigue
+GERD,Heartburn,Chest pain,Difficulty swallowing
+Celiac Disease,Digestive issues,Fatigue,Weight loss
+Osteoporosis,Bone fragility,Back pain,Poor posture
+Anemia,Fatigue,Weakness,Pale skin
+Thyroid Disease,Weight changes,Fatigue,Mood changes
+Psoriasis,Skin patches,Itching,Joint pain
+Eczema,Itchy skin,Redness,Dry patches
+Multiple Sclerosis,Fatigue,Vision problems,Balance issues
+Parkinson's Disease,Tremors,Stiffness,Balance problems
+Alzheimer's Disease,Memory loss,Confusion,Behavioral changes
+Ulcerative Colitis,Abdominal pain,Diarrhea,Rectal bleeding
+Crohn's Disease,Abdominal pain,Weight loss,Fatigue
+Lupus,Joint pain,Rash,Fatigue
+Fibromyalgia,Widespread pain,Fatigue,Sleep problems
+Glaucoma,Vision loss,Eye pain,Headache
+Cataracts,Blurred vision,Light sensitivity,Color fading
+Sleep Apnea,Loud snoring,Daytime fatigue,Morning headaches
+Kidney Stones,Severe pain,Blood in urine,Nausea
+Gallstones,Abdominal pain,Nausea,Vomiting
+Hepatitis,Jaundice,Fatigue,Abdominal pain
+Cirrhosis,Fatigue,Jaundice,Swelling
+Gout,Joint pain,Swelling,Redness
+Osteoarthritis,Joint pain,Stiffness,Reduced flexibility
+Rheumatoid Arthritis,Joint pain,Swelling,Morning stiffness
+Scoliosis,Back pain,Uneven shoulders,Poor posture
+Carpal Tunnel,Wrist pain,Numbness,Tingling
+Tennis Elbow,Elbow pain,Weakness,Stiffness
+Plantar Fasciitis,Heel pain,Foot stiffness,Limited mobility
+Sinusitis,Facial pain,Congestion,Headache
+Tonsillitis,Sore throat,Fever,Swollen tonsils
+Appendicitis,Abdominal pain,Nausea,Fever
+Diverticulitis,Abdominal pain,Fever,Change in bowel habits
+Hemorrhoids,Rectal pain,Bleeding,Itching
+Shingles,Painful rash,Blisters,Burning sensation
+Chickenpox,Itchy rash,Fever,Fatigue
+Measles,Rash,Fever,Cough
+Mumps,Swollen glands,Fever,Headache
+Meningitis,Severe headache,Stiff neck,Fever
+Tuberculosis,Persistent cough,Weight loss,Night sweats
+Malaria,High fever,Chills,Sweating
+Lyme Disease,Bull's eye rash,Fever,Joint pain
+Rabies,Anxiety,Confusion,Paralysis
+Tetanus,Muscle stiffness,Jaw cramping,Seizures
+Cholera,Severe diarrhea,Dehydration,Vomiting
+Typhoid,High fever,Headache,Weakness
+Dengue Fever,High fever,Severe headache,Joint pain
+Yellow Fever,Fever,Jaundice,Muscle pain
+Ebola,Fever,Bleeding,Muscle pain
+Zika Virus,Fever,Rash,Joint pain
+West Nile Virus,Fever,Headache,Body aches
+Chikungunya,Joint pain,Fever,Rash
+Polio,Muscle weakness,Paralysis,Fatigue
+Diphtheria,Sore throat,Fever,Weakness
+Whooping Cough,Severe cough,Difficulty breathing,Vomiting
+Scarlet Fever,Red rash,Sore throat,Fever
+Hand Foot Mouth Disease,Rash,Fever,Mouth sores
+Fifth Disease,Red cheeks,Rash,Fever
+Roseola,High fever,Rash,Irritability
+Impetigo,Red sores,Itching,Crusting
+Ringworm,Ring-shaped rash,Itching,Scaling
+Scabies,Intense itching,Rash,Sores
+Conjunctivitis,Red eyes,Discharge,Itching
+Stye,Eye pain,Swelling,Redness
+Ear Infection,Ear pain,Fever,Hearing changes
+Strep Throat,Severe sore throat,Fever,Swollen lymph nodes
+Laryngitis,Hoarse voice,Sore throat,Cough
+Mononucleosis,Severe fatigue,Sore throat,Swollen lymph nodes
+Food Poisoning,Nausea,Vomiting,Diarrhea
+Norovirus,Vomiting,Diarrhea,Stomach pain
+Salmonella,Diarrhea,Fever,Abdominal cramps
+E. coli Infection,Bloody diarrhea,Abdominal pain,Vomiting
+Listeria,Fever,Muscle aches,Nausea
+Botulism,Muscle weakness,Vision problems,Difficulty speaking
+Sepsis,High fever,Rapid breathing,Confusion
+Meningococcal Disease,Stiff neck,Fever,Rash
+Pneumococcal Disease,Chest pain,Fever,Confusion
+Hantavirus,Fatigue,Muscle aches,Shortness of breath
+Legionnaires Disease,Cough,Fever,Muscle aches
+Valley Fever,Fever,Cough,Fatigue
+Histoplasmosis,Fever,Cough,Fatigue
+Cryptococcosis,Headache,Fever,Cough
+Candidiasis,White patches,Itching,Burning
+Aspergillosis,Cough,Fever,Chest pain
+Blastomycosis,Fever,Cough,Weight loss
+Coccidioidomycosis,Fever,Cough,Fatigue
+Sporotrichosis,Skin lesions,Pain,Swelling
+Hookworm,Abdominal pain,Diarrhea,Fatigue
+Pinworm,Anal itching,Sleep disturbance,Irritability
+Tapeworm,Weight loss,Weakness,Abdominal pain
+Roundworm,Abdominal pain,Cough,Weight loss
+Giardiasis,Diarrhea,Fatigue,Abdominal cramps
+Cryptosporidiosis,Watery diarrhea,Stomach cramps,Dehydration
+Amebiasis,Bloody diarrhea,Abdominal pain,Fever
+Trichinosis,Muscle pain,Fever,Swelling
+Toxoplasmosis,Flu-like symptoms,Swollen lymph nodes,Muscle aches
+Trichomoniasis,Discharge,Itching,Burning
+Syphilis,Painless sores,Rash,Fever
+Gonorrhea,Discharge,Pain urinating,Swelling
+Chlamydia,Discharge,Pain urinating,Lower abdominal pain
+HIV/AIDS,Fever,Weight loss,Night sweats
+Herpes,Blisters,Pain,Itching
+HPV,Warts,Abnormal cell changes,Pain
+Hepatitis A,Jaundice,Nausea,Fatigue
+Hepatitis B,Fatigue,Dark urine,Abdominal pain
+Hepatitis C,Chronic fatigue,Jaundice,Liver damage
+Hemophilia,Easy bruising,Excessive bleeding,Joint pain
+Thalassemia,Fatigue,Weakness,Pale skin
+Sickle Cell Disease,Pain crises,Fatigue,Infections
+Leukemia,Fatigue,Easy bleeding,Bone pain
+Lymphoma,Swollen lymph nodes,Night sweats,Weight loss
+Multiple Myeloma,Bone pain,Fatigue,Frequent infections
+Pancreatic Cancer,Abdominal pain,Weight loss,Jaundice
+Lung Cancer,Persistent cough,Chest pain,Weight loss
+Breast Cancer,Breast lump,Skin changes,Nipple discharge
+Prostate Cancer,Urinary problems,Pelvic pain,Erectile dysfunction
+Colon Cancer,Change in bowel habits,Rectal bleeding,Abdominal pain
+Ovarian Cancer,Bloating,Pelvic pain,Changes in appetite
+Brain Tumor,Headaches,Seizures,Vision problems
+Melanoma,Changing moles,Irregular borders,Color changes
+Bulimia,Binge eating,Purging,Weight fluctuations
+Anorexia,Extreme weight loss,Fear of gaining weight,Distorted body image
+Schizophrenia,Hallucinations,Delusions,Disorganized thinking
+Bipolar Disorder,Mood swings,Manic episodes,Depression
+OCD,Intrusive thoughts,Compulsive behaviors,Anxiety
+PTSD,Flashbacks,Nightmares,Avoidance behavior
+Autism,Social difficulties,Communication challenges,Repetitive behaviors
+ADHD,Inattention,Hyperactivity,Impulsivity
+Tourette Syndrome,Motor tics,Vocal tics,Behavioral issues
+Down Syndrome,Distinctive facial features,Intellectual disability,Heart defects
+Cerebral Palsy,Muscle stiffness,Movement problems,Speech difficulties
+Muscular Dystrophy,Progressive weakness,Muscle loss,Difficulty walking
+Cystic Fibrosis,Breathing problems,Digestive issues,Frequent infections
+Polycystic Kidney Disease,High blood pressure,Kidney pain,Urinary problems
+Addison's Disease,Fatigue,Weight loss,Low blood pressure
+Cushing's Syndrome,Weight gain,Muscle weakness,Mood changes
+Graves' Disease,Anxiety,Heat sensitivity,Eye problems
+Hashimoto's Disease,Fatigue,Weight gain,Cold sensitivity
+Sjogren's Syndrome,Dry eyes,Dry mouth,Joint pain
+Raynaud's Disease,Cold fingers and toes,Color changes in skin,Numbness
+Endometriosis,Pelvic pain,Heavy periods,Infertility
+PCOS,Irregular periods,Acne,Weight gain
+Premenstrual Dysphoric Disorder,Severe mood changes,Physical symptoms,Fatigue
+Chronic Fatigue Syndrome,Extreme fatigue,Post-exertion malaise,Sleep problems
+Interstitial Cystitis,Bladder pain,Frequent urination,Pelvic pressure
+Restless Leg Syndrome,Leg discomfort,Urge to move,Sleep disruption
+Narcolepsy,Excessive daytime sleepiness,Sudden sleep attacks,Cataplexy
+Vertigo,Dizziness,Balance problems,Nausea
+Meniere's Disease,Hearing loss,Tinnitus,Vertigo
+Bell's Palsy,Facial weakness,Drooping,Eye problems
+Trigeminal Neuralgia,Facial pain,Trigger points,Electric shock sensation
+Cluster Headaches,Severe head pain,Eye tearing,Nasal congestion
