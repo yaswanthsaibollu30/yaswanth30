@@ -295,7 +295,7 @@ elif selected_page == "Contact Us":
             <h3>Have questions or feedback?</h3>
             <p>We'd love to hear from you! Reach out to us at:</p>
             <ul>
-                <li>Email: <a href="anugnasomepalli@gmail.com">anugnasomepalli@gmail.com</a></li>
+                <li>Email: <a href="b.yaswanth.s24@gmail.com">b.yaswanth.s24@gmail.com</a></li>
                 <li>Phone: 000000000</li>
             </ul>
         </div>
